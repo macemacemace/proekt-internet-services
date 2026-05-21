@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTYUzWvsydI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\martin\\ComputerStore\\ComputerStore.Application\\ComputerStore.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "C:\\Users\\marti\\Desktop\\martin\\ComputerStore\\ComputerStore.Application\\ComputerStore.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\marti\\Desktop\\martin\\ComputerStore\\ComputerStore.Application\\ComputerStore.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
