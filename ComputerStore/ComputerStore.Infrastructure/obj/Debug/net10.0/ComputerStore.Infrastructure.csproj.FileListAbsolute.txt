@@ -17,3 +17,4 @@ C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Infrastructure\obj\Deb
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Infrastructure\obj\Debug\net10.0\ComputerStore.Infrastructure.pdb
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Infrastructure\obj\Debug\net10.0\ComputerStore.Infrastructure.genruntimeconfig.cache
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Infrastructure\obj\Debug\net10.0\ref\ComputerStore.Infrastructure.dll
+C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Infrastructure\obj\Debug\net10.0\ComputerStore.Infrastructure.sourcelink.json

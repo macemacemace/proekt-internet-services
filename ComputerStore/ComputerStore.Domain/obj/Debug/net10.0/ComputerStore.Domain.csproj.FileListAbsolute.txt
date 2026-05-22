@@ -9,3 +9,4 @@ C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Domain\obj\Debug\net10
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Domain\obj\Debug\net10.0\refint\ComputerStore.Domain.dll
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Domain\obj\Debug\net10.0\ComputerStore.Domain.pdb
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Domain\obj\Debug\net10.0\ref\ComputerStore.Domain.dll
+C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Domain\obj\Debug\net10.0\ComputerStore.Domain.sourcelink.json

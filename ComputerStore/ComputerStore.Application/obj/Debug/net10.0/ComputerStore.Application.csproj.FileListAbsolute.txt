@@ -13,3 +13,4 @@ C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Application\obj\Debug\
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Application\obj\Debug\net10.0\refint\ComputerStore.Application.dll
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Application\obj\Debug\net10.0\ComputerStore.Application.pdb
 C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Application\obj\Debug\net10.0\ref\ComputerStore.Application.dll
+C:\Users\marti\Desktop\martin\ComputerStore\ComputerStore.Application\obj\Debug\net10.0\ComputerStore.Application.sourcelink.json
